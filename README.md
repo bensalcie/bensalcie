@@ -21,7 +21,9 @@ He is profficient in delivering quality apps that have a balance of User Interfa
 
 [![Ben Salcie’s github stats](https://github-readme-stats.vercel.app/api?username=bensalcie)](https://github.com/bensalcie)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensalcie&layout=compact)](https://github.com/bensalcie)
+<p></p>
 
+[![My Visitors Today](https://visitor-badge.glitch.me/badge?page_id=bensalcie.bensalcie)](https://www.bensalcie.payherokenya.com/)
 
 ## :boom: Latest Blog Posts
 
