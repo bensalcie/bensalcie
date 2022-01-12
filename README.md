@@ -7,7 +7,7 @@
 ### Hi there 👋, Welcome to my Repository
 
                                                                                                                                          
-**Ben Salcie** is a ✨ professional ✨ Mobile Apps Developer with over 6 years of experience in developing mobile apps using Java, Kotlin, and Dart.
+**Ben Salcie** is a professional Mobile Apps Developer with over 6 years of experience in developing mobile apps using Java, Kotlin, and Dart.
 He is proficient in delivering quality apps that have a balance of User Interface, User Experience, and Desired Functionality.
 
 📫 How to reach me: 
