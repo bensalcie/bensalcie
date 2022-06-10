@@ -26,8 +26,6 @@ He is proficient in delivering quality apps that have a balance of User Interfac
 [![My Visitors Today](https://visitor-badge.glitch.me/badge?page_id=bensalcie.bensalcie)](https://www.bensalcie.payherokenya.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensalcie&layout=compact)](https://github.com/bensalcie/github-readme-stats)
-
 
 ## :boom: Latest Blog Posts
 
