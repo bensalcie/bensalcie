@@ -15,7 +15,7 @@ He is proficient in delivering quality apps that have a balance of User Interfac
 -   Email: bensalcie@gmail.com
 
 **Check out the amazing works am doing here:**
-<a href="https://play.google.com/store/apps/details?id=dev.bensalcie.portfolio&hl=en&gl=US" target="_blank" title="Ben Salcie's portfolio App">Portfolio App</a>
+<a href="https://play.google.com/store/apps/details?id=app.bensalcie.portfolio&hl=en&gl=US" target="_blank" title="Ben Salcie's portfolio App">Portfolio App</a>
 
 **Visit my** <a href="https://bensalcie.payherokenya.com/" target="_blank" title="Ben Salcie's portfolio Website">Portfolio Website</a>
 
